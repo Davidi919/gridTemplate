@@ -1,9 +1,7 @@
-This is my first readme file on github!
+This is a test template for using a CSS grids to layout a normal page. 
 
-And now to modify it locally and make sure it updates in git....
+Currently, it is best suited for desktops as I am working on and learning about @media quieres.
 
+If you have any suggestions, or have an alternative way to accomplish this page, I'm happy to hear about it and discuss. 
 
-and once more with feeling!
-
-
-Soon I'll be updating and sharing my code with ease :)
+Thanks for checking out my content! 
